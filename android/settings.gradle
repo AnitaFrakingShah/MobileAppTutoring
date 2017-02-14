@@ -1,0 +1,3 @@
+rootProject.name = 'p2017x02x15'
+
+include ':app'
