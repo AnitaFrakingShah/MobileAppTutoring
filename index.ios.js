@@ -13,11 +13,14 @@ import {
 } from 'react-native';
 
 export default class p2017x02x15 extends Component {
+  componentDidMount() {
+  console.log('mounted component p2017x02x14')
+}
   render() {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Welcome to React Native!
+          Welcome to the Tutor matcher!
         </Text>
         <Text style={styles.instructions}>
           To get started, edit index.ios.js
