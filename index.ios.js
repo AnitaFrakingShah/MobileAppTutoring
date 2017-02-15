@@ -12,6 +12,8 @@ import {
   View
 } from 'react-native';
 
+import LoginPage from './pages/LoginPage';
+
 export default class p2017x02x15 extends Component {
   componentDidMount() {
   console.log('mounted component p2017x02x14')
