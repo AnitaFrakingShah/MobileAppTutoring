@@ -1,4 +1,4 @@
-package com.rnfirebaseauth;
+package com.p2017x02x15;
 
 import android.content.Intent;
 import android.os.Bundle;

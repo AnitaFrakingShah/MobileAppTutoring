@@ -9,9 +9,9 @@ import {
   ActivityIndicator
 } from 'react-native';
 
-import Header from '/Users/anitashah/AndroidStudioProjects/rnfirebaseauth/src/components/header'
+import Header from '../components/header'
 
-import styles from '/Users/anitashah/AndroidStudioProjects/rnfirebaseauth/src/styles/common-styles.js';
+import styles from '../styles/common-styles.js';
 import React, {Component} from 'react';
 import Login from './Login-ios';
 

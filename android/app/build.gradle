@@ -87,7 +87,7 @@ android {
     buildToolsVersion "23.0.1"
 
     defaultConfig {
-        applicationId "com.rnfirebaseauth"
+        applicationId "com.p2017x02x15"
         minSdkVersion 16
         targetSdkVersion 22
         versionCode 1

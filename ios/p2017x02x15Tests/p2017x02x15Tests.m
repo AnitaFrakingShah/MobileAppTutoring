@@ -16,11 +16,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React Native!"
 
-@interface rnfirebaseauthTests : XCTestCase
+@interface p2017x02x15Tests : XCTestCase
 
 @end
 
-@implementation rnfirebaseauthTests
+@implementation p2017x02x15Tests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL(^)(UIView *view))test
 {

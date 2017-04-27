@@ -11,8 +11,8 @@ import {
 import React, {Component} from 'react';
 import Login from './login';
 import Search from './signup';
-import Tabs from '/Users/anitashah/AndroidStudioProjects/rnfirebaseauth/src/components/tabs.js';
-import styles2 from '/Users/anitashah/AndroidStudioProjects/rnfirebaseauth/src/styles/common-styles.js';
+import Tabs from '../components/tabs.js';
+import styles2 from '../styles/common-styles.js';
 
 
 

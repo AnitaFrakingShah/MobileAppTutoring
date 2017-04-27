@@ -13,11 +13,12 @@ import {
 import React, {Component} from 'react';
 import Signup from './signup';
 import Account from './account';
-import styles from '/Users/anitashah/AndroidStudioProjects/rnfirebaseauth/src/styles/common-styles.js';
-import Wallpaper from '/Users/anitashah/AndroidStudioProjects/rnfirebaseauth/src/components/Wallpaper.js';
-import UserInput from '/Users/anitashah/AndroidStudioProjects/rnfirebaseauth/src/components/UserInput';
-import usernameImg from '/Users/anitashah/AndroidStudioProjects/rnfirebaseauth/src/components/usernameImg.png';
-import passwordImg from '/Users/anitashah/AndroidStudioProjects/rnfirebaseauth/src/components/passwordImg.png';
+import styles from '../styles/common-styles.js';
+import Wallpaper from '../components/Wallpaper.js';
+import UserInput from '../components/UserInput';
+import usernameImg from '../components/usernameImg.png';
+import passwordImg from '../components/passwordImg.png';
+import Header from '../components/header'
 
 
 

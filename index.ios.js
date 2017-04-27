@@ -25,7 +25,7 @@
   };
  const firebaseApp = firebase.initializeApp(firebaseConfig);
  import Login from './src/pages/Login-ios';
- class rnfirebaseauth extends Component {
+ class p2017x02x15 extends Component {
    render() {
      return (
        // For now our navigator will always take us to the login page.
@@ -46,4 +46,4 @@
    }
  }
 
- AppRegistry.registerComponent('rnfirebaseauth', () => rnfirebaseauth);
+ AppRegistry.registerComponent('p2017x02x15', () => p2017x02x15);

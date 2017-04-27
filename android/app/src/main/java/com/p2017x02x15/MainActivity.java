@@ -1,4 +1,4 @@
-package com.rnfirebaseauth;
+package com.p2017x02x15;
 
 import com.facebook.react.ReactActivity;
 
@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
      */
     @Override
     protected String getMainComponentName() {
-        return "rnfirebaseauth";
+        return "p2017x02x15";
     }
 }

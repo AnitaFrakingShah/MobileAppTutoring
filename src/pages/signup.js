@@ -10,7 +10,7 @@ import {
 } from 'react-native';
 
 
-import styles from '/Users/anitashah/AndroidStudioProjects/rnfirebaseauth/src/styles/common-styles.js';
+import styles from '../styles/common-styles.js';
 import React, {Component} from 'react';
 import Login from './login';
 
@@ -28,7 +28,7 @@ export default class Signup extends Component {
     }
   }
 
-  
+
   // A method to passs the username and password to firebase and make a new user account
   signup() {
     this.setState({
