@@ -69,7 +69,7 @@ export default class Login extends Component {
       <Tabs>
         {/* First tab */}
         <View title="PARENT/USER" style={styles.content}>
-              <View style = {styles3.above}> // Push everything down on the screen
+              <View style = {styles3.above}>
                     <UserInput
                       source={usernameImg}
                       placeholder='Email Address'
@@ -99,7 +99,7 @@ export default class Login extends Component {
 
         {/* Second tab */}
         <View title="TUTOR" style={styles.content}>
-          <View style={styles3.above}> // Push everything down
+          <View style={styles3.above}> 
             <View>
               <UserInput
                 source={usernameImg}
