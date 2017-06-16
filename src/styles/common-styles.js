@@ -21,6 +21,7 @@ module.exports = StyleSheet.create({
     alignItems:'center',
     justifyContent:'center',
   },
+  
   toolbar: {
         height: 56,
         backgroundColor: '#2fa8a4',
